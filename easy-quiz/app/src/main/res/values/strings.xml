@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Easy Quiz</string>
+    <string name="high_score">Điểm cao: 0</string>
+
+    <string name="confirm">Xác nhận</string>
+    <string name="next">Câu tiếp theo</string>
+
+    <string name="question">Câu hỏi là gì ?</string>
+    <string name="demo_key_1">Đáp án số 1</string>
+    <string name="demo_key_2">Đáp án số 2</string>
+    <string name="demo_key_3">Đáp án số 3</string>
+
+    <string name="question_count">Câu hỏi: 0/5</string>
+    <string name="difficulty">Độ khó: Dễ</string>
+    <string name="score">Điểm: 0</string>
+    <string name="time_count_down">00:30</string>
+
+    <string name="level_easy">Mức: Dễ</string>
+    <string name="level_medium">Mức: Trung bình</string>
+    <string name="level_hard">Mức: Khó</string>
+
+</resources>
